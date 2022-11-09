@@ -11,11 +11,15 @@
 ## 2._ Marco Metodológico
 ### Medidas y Representaciones.
 ```
-Cuando el ser humano logro ser consciente de su entorno y presenciando diversos fenómenos presentes en el 
-universo obtuvo la necesidad de investigarlos para poder comprenderlos, naciendo así la el interés de designarles 
-valores numéricos que describan el comportamiento de estos hechos, muchos de estas representaciones numéricas eran 
-extremadamente extensas por lo que se dificultaba el su manejo y utilización, por lo que fue necesario obtener una 
-forma facil, precisa y eficaz de representarlas, dando por respuesta la notación científica.
+Cuando el ser humano logro ser consciente de su entorno y presenciando 
+diversos fenómenos presentes en el universo obtuvo la necesidad de 
+investigarlos para poder comprenderlos, naciendo así la el interés 
+de designarles valores numéricos que describan el comportamiento 
+de estos hechos, muchos de estas representaciones numéricas eran 
+extremadamente extensas por lo que se dificultaba el su manejo y 
+utilización, por lo que fue necesario obtener una forma facil, 
+precisa y eficaz de representarlas, dando por respuesta la notación 
+científica.
 ```
 
 ![image](https://user-images.githubusercontent.com/116705680/200743367-82ef372d-39e3-49bb-9a54-4501bcd90d25.png)
@@ -26,8 +30,10 @@ forma facil, precisa y eficaz de representarlas, dando por respuesta la notació
 
 ### Voltaje, Corriente y Resistencia
 ```
-Los Atomos son los componentes mas basicos y fundamentales presentes en el Universo, tota la materia existente los 
-tiene como base, aun asi este elemento tambien presenta una estructura muy estudiada en la actualidad.
+Los Atomos son los componentes mas basicos y fundamentales presentes 
+en el Universo, tota la materia existente los tiene como base, aun asi 
+este elemento tambien presenta una estructura muy estudiada en la 
+actualidad.
 ```
 
 ![image](https://user-images.githubusercontent.com/116705680/200753295-e5efddeb-5577-4a69-b3f3-a5158b2d2eee.png)
@@ -38,9 +44,11 @@ tiene como base, aun asi este elemento tambien presenta una estructura muy estud
 
 ### Cicuitos Electricos
 ```
-Un Circuito Eléctrico es un conjunto de elementos conectados entre si por los que puede circular una corriente eléctrica.
-Los circuitos eléctricos son circuitos cerrados, aunque podemos abrir el circuito en algún momento para interrumpir el 
-paso de la corriente mediante un interruptor, pulsador u otro elemento del circuito.
+Un Circuito Eléctrico es un conjunto de elementos conectados entre 
+si por los que puede circular una corriente eléctrica.
+Los circuitos eléctricos son circuitos cerrados, aunque podemos 
+abrir el circuito en algún momento para interrumpir el paso de la 
+corriente mediante un interruptor, pulsador u otro elemento del circuito.
 ```
 
 ![](https://user-images.githubusercontent.com/116705680/200769277-1d4d99ba-fdf1-46b2-9c9b-f799695ca08f.png)
@@ -49,12 +57,15 @@ paso de la corriente mediante un interruptor, pulsador u otro elemento del circu
 
 ### Seguridad Eléctrica
 ```
-Son medidas de control específicas implementadas para eliminar los peligros eléctricos y mitigar los riesgos de 
-accidentes eléctricos y lesiones. Las precauciones de seguridad para trabajar con electricidad dependen de las 
-instrucciones de trabajo del trabajador y de su entorno de trabajo. Sin embargo, las precauciones de seguridad 
-eléctrica más básicas incluyen comprender claramente cómo funciona la electricidad, poder identificar y eliminar 
-riesgos eléctricos, como una mala gestión de los cables y la falta de limpieza adecuada, o usar el equipo de 
-protección personal adecuado.
+Son medidas de control específicas implementadas para eliminar los 
+peligros eléctricos y mitigar los riesgos de accidentes eléctricos 
+y lesiones. Las precauciones de seguridad para trabajar con 
+electricidad dependen de las instrucciones de trabajo del trabajador 
+y de su entorno de trabajo. Sin embargo, las precauciones de seguridad 
+eléctrica más básicas incluyen comprender claramente cómo funciona
+la electricidad, poder identificar y eliminar riesgos eléctricos, 
+como una mala gestión de los cables y la falta de limpieza adecuada, 
+o usar el equipo de protección personal adecuado.
 ```
 
 ![image](https://user-images.githubusercontent.com/116705680/200777653-3887bcf4-30bd-4c07-ac65-c0ec56b8c63f.png)
