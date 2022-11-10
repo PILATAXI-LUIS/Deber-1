@@ -87,6 +87,22 @@ herramientas metálicas el aislante esté en buenas condiciones.
 
 ## 3._ Ejercicios
 
+![image](https://user-images.githubusercontent.com/116705680/201013988-9d856b2c-7b43-4c64-8534-e481770a0a30.png)
+
+![image](https://user-images.githubusercontent.com/116705680/201014013-8a1b3e38-a1c1-452f-81a8-81d980f49c4a.png)
+
+![image](https://user-images.githubusercontent.com/116705680/201014038-e45d3a60-d61a-435d-ad70-4578136305c8.png)
+
+![image](https://user-images.githubusercontent.com/116705680/201014079-7bc8f93a-4f91-4a1c-822f-fc791d87a4df.png)
+
+![image](https://user-images.githubusercontent.com/116705680/201014123-816e9ca4-9981-40dc-a37a-5a669404f6f5.png)
+
+![image](https://user-images.githubusercontent.com/116705680/201014154-8b2bc9e9-01f3-4707-880a-0fd886e24834.png)
+
+![image](https://user-images.githubusercontent.com/116705680/201014184-8e811e4b-28e4-46dd-8b8b-913455803624.png)
+
+![image](https://user-images.githubusercontent.com/116705680/201014215-4ad395be-cf98-4071-872b-eeebe0a4701a.png)
+
 
 ## 4._ Video
 
