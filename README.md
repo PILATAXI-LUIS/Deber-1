@@ -100,8 +100,3 @@ herramientas metálicas el aislante esté en buenas condiciones.
 
 ## 6._ Bibliografía
     - Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
-
-
-
-
-
