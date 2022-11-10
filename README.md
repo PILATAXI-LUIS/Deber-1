@@ -106,7 +106,7 @@ herramientas metálicas el aislante esté en buenas condiciones.
 
 ## 4._ Video
 
-https://youtu.be/RbGeZMvw5UI
+
 
 ## 5._ Conclusiones
 
